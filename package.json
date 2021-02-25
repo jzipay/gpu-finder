@@ -1,0 +1,21 @@
+{
+  "name": "gpu-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "chrome-launcher": "^0.13.4",
+    "chrome-remote-interface": "^0.29.0",
+    "colors": "^1.4.0",
+    "open": "^7.4.2",
+    "puppeteer": "^7.1.0"
+  }
+}
